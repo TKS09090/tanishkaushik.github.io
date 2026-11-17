@@ -152,4 +152,5 @@ object-position: 65% center;
 }
 #about .hero-copy{
     padding-left: 35px !important;
+    padding-bottom: 20px !important;
 }
